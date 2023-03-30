@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in the risk management division at a commercial bank in Vietnam<br>👯 I’m looking for an opportunity to work as a Data Analyst in the banking/finance domain<br>🌱 I’m currently learning to know more about the data management/gorvernance task in a big coorperation where I can strengthen my SQL skill and can help me to gain a broad understanding of how databases work. 
+🔭 I’m currently working in the risk management division at a commercial bank in Vietnam<br>👯 I’m looking for an opportunity to work as a Data Analyst in the banking/finance domain<br>🌱 I’m learning to know more about the data management/gorvernance task in a big coorperation where I can strengthen my SQL skill and can help me to gain a broad understanding of how databases work. 
 
 
 ## 🌐 Socials:
