@@ -7,9 +7,12 @@
 
 # 💻 Tech Stack:
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
-# PROJECTS
+# MILESTONE PROJECTS
 ## Scorecard building process
-From longlist to shortlisted factors to SFA and MFA performing, I have the opportunities to broaden my horizon in the quantitative world by learning to build a simple credit scorecard. Reference: http://eprints.utar.edu.my/4592/1/Lee_Choon_Yi.pdf 
-[Here the link to the notebook](https://github.com/ynnn01/ynnn01.github.io/blob/8fc80dbb25f4c44846001d91a11d57daef33f8e1/ScorecardDev_optbinning.ipynb)
+From longlist to shortlisted factors to SFA and MFA performing, I have the opportunities to broaden my horizon in the quantitative world by learning to build a simple credit scorecard. <br>
+Reference: http://eprints.utar.edu.my/4592/1/Lee_Choon_Yi.pdf <br>
+[Here the link to the notebook](https://github.com/ynnn01/ynnn01.github.io/blob/8fc80dbb25f4c44846001d91a11d57daef33f8e1/ScorecardDev_optbinning.ipynb) <br>
+## Data analysis by POWER BI
+
 # ME
 Dont hesitate to contact me via email: yenngocphan01@gmail.com
