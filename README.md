@@ -10,6 +10,6 @@
 # PROJECTS
 ## Scorecard building process
 From longlist to shortlisted factors to SFA and MFA performing, I have the opportunities to broaden my horizon in the quantitative world by learning to build a simple credit scorecard. Reference: http://eprints.utar.edu.my/4592/1/Lee_Choon_Yi.pdf 
-[https://github.com/ynnn01/ynnn01.github.io/blob/8fc80dbb25f4c44846001d91a11d57daef33f8e1/ScorecardDev_optbinning.ipynb]
+[Here the link to the notebook](https://github.com/ynnn01/ynnn01.github.io/blob/8fc80dbb25f4c44846001d91a11d57daef33f8e1/ScorecardDev_optbinning.ipynb
 # ME
 Dont hesitate to contact me via email: yenngocphan01@gmail.com
