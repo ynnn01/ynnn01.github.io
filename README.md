@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in the risk management division at a commercial bank in Vietnam<br>👯 I’m looking for an opportunity to work as a Data Analyst in the banking/finance domain<br>
+🔭 I’m currently working in the risk management division at a commercial bank in Vietnam and I am also a last year student from UEL, VNU HCMC. Trying to get out of school<br>👯 I’m looking for an opportunity to work as a Data Analyst in the banking/finance domain<br>
 
 
 ## 🌐 Socials:
