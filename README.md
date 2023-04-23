@@ -10,7 +10,7 @@
 # MILESTONE PROJECTS
 ## Scorecard building process
 From longlist to shortlisted factors to SFA and MFA performing, I have the opportunities to broaden my horizon in the quantitative world by learning to build a simple credit scorecard. <br>
-Reference: [Lee, C. Y. (2022). Credit Risk Prediction Using Calibration Method: An Application In Financial Scorecard (Doctoral dissertation, UTAR](http://eprints.utar.edu.my/4592/1/Lee_Choon_Yi.pdf) <br>
+Reference: [Lee, C. Y. (2022). Credit Risk Prediction Using Calibration Method: An Application In Financial Scorecard (Doctoral dissertation, UTAR)](http://eprints.utar.edu.my/4592/1/Lee_Choon_Yi.pdf) <br>
 [Here's the link to the notebook](https://github.com/ynnn01/ynnn01.github.io/blob/8fc80dbb25f4c44846001d91a11d57daef33f8e1/ScorecardDev_optbinning.ipynb) <br>
 ## Data analysis by POWER BI
 
