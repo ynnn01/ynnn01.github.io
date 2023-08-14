@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in the risk management division at a commercial bank in Vietnam and I am also a last year student from UEL, VNU HCMC. Trying to get out of school<br>👯 I’m looking for an opportunity to work as a Data Analyst in the banking/finance domain<br>
+🔭 I’m currently working in the risk management division at a commercial bank in Vietnam  <br>👯 I’m looking for an opportunity to work as a Data Analyst in the banking/finance domain<br>
 
 
 ## 🌐 Socials:
@@ -12,7 +12,11 @@
 From longlist to shortlisted factors to SFA and MFA performing, I have the opportunities to broaden my horizon in the quantitative world by learning to build a simple credit scorecard. <br>
 Reference: [Lee, C. Y. (2022). Credit Risk Prediction Using Calibration Method: An Application In Financial Scorecard (Doctoral dissertation, UTAR)](http://eprints.utar.edu.my/4592/1/Lee_Choon_Yi.pdf) <br>
 [Here's the link to the notebook](https://github.com/ynnn01/ynnn01.github.io/blob/8fc80dbb25f4c44846001d91a11d57daef33f8e1/ScorecardDev_optbinning.ipynb) <br>
-## Data analysis by POWER BI
+## Data analysis and forecasting by POWER BI
+A Power BI Dashboard that I used to demonstrate my favorite tennis player, Rafael Nadal, indexes, from his majors to ATP 1000 tour from 2010 until now. <br> 
+My dashboard has expanded significantly because I was trying to build a simple forecast model for his games at Roland Garros - The French Open during the pandemic. I obtained indexes from some other players, such as his regular opponents or younger players from new-gen tennis. <br> 
+At the beginning of this hobbies-driven project, I used an Excel spreadsheet as my data warehouse, but over time, the worksheet took up my storage space more than I expected so I decided to move it online.  <br> So here is the link to my dashboard, hope you find it interesting like I did.
+
 
 # ME
-Dont hesitate to contact me via email: yenngocphan01@gmail.com
+Don't hesitate to contact me via email: yenngocphan01@gmail.com
